@@ -1,0 +1,21 @@
+{
+    "name": "@yunser/style-reset",
+    "version": "0.0.2",
+    "private": false,
+    "description": "Style reset.",
+    "author": "Yunser",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yunser/css-reset"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "files": [
+        "/dist"
+    ],
+    "keywords": [
+        "reset"
+    ]
+}
